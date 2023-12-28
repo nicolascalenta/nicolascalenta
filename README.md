@@ -1,11 +1,11 @@
 <h1 align="center">Hola! Me llamo Nicolas Calenta</h1>
 <h3 align="center">Soy un developer que busco conocer mas sobre el basto mundo de las tecnologias de i.a</h3>
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html)
+- 📝Mi sitio web [http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html)
 
-- 💬 Ask me about **HTML, CSS, JS, node JS**
+- 👨‍💻Mis tecnologias **HTML, CSS, JS, node JS**
 
-- 📫 How to reach me **nicolascalenta@gmail.com**
+- 📫Como contactarme **nicolascalenta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
